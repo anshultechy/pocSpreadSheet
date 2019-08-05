@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"IScrollerKeyboardListener":{"__symbolic":"interface"},"IScrollerKeyboardListener_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"./type","name":"Type","line":28,"character":49},"arguments":[null,"IScrollerKeyboardListener"]}}}]

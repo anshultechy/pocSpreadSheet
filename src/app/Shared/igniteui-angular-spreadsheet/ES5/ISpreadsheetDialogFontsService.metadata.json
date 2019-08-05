@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ISpreadsheetDialogFontsService":{"__symbolic":"interface"},"ISpreadsheetDialogFontsService_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"Type","line":23,"character":54},"arguments":[null,"ISpreadsheetDialogFontsService"]}}}]

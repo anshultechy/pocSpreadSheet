@@ -1,0 +1,61 @@
+import { Base, INotifyPropertyChanged, Nullable$1, PropertyChangedEventArgs, Type } from "../../igniteui-angular-core/ES5/type";
+import { ISupportPropertyChangeNotifications } from "./ISupportPropertyChangeNotifications";
+import { ScrollInfoBarVisibility } from "./ScrollInfoBarVisibility";
+import { ScrollInfoAmount } from "./ScrollInfoAmount";
+import { ITypedPropertyChangeListener$2 } from "./ITypedPropertyChangeListener$2";
+/**
+ * @hidden
+ */
+export declare class ScrollInfo extends Base implements INotifyPropertyChanged, ISupportPropertyChangeNotifications {
+    static $t: Type;
+    private _f;
+    private _k;
+    private _c;
+    constructor();
+    private _d;
+    _g: boolean;
+    private _e;
+    _h: boolean;
+    private _l;
+    _t: number;
+    protected get__i(): boolean;
+    readonly _i: boolean;
+    private _ag;
+    _ah: Nullable$1<number>;
+    readonly _z: number;
+    private _m;
+    readonly _aa: number;
+    private _n;
+    _ab: number;
+    private _o;
+    _ac: number;
+    private _a;
+    _b: ScrollInfoBarVisibility;
+    private _p;
+    _ad: number;
+    private _q;
+    _ae: number;
+    private _r;
+    _af: number;
+    private _ai;
+    _s(a: ScrollInfoAmount): number;
+    _u(): number;
+    static _v(a: number, b: number, c: number, d: number): number;
+    private _w;
+    _x(): number;
+    static _y(a: number, b: number): number;
+    _aj(a: number, b: number, c: number): void;
+    protected _ak(a: string): void;
+    private _al;
+    private _am;
+    _ap(a: number): void;
+    _an(a: ScrollInfoAmount): void;
+    _ao(a: ScrollInfoAmount, b: number): void;
+    _aq(a: number): void;
+    _ar(a: number): void;
+    private _j;
+    private _as;
+    propertyChanged: (sender: any, e: PropertyChangedEventArgs) => void;
+    addListener(a: ITypedPropertyChangeListener$2<any, string>, b: boolean): void;
+    removeListener(a: ITypedPropertyChangeListener$2<any, string>): void;
+}

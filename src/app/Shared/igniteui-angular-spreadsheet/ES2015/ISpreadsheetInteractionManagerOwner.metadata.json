@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ISpreadsheetInteractionManagerOwner":{"__symbolic":"interface"},"ISpreadsheetInteractionManagerOwner_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"Type","line":34,"character":59},"arguments":[null,"ISpreadsheetInteractionManagerOwner"]}}}]

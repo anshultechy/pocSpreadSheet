@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"RowColUnitType":{"Auto":0,"Pixel":1,"Star":2},"RowColUnitType_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"markEnum","line":21,"character":34},"arguments":["RowColUnitType","Auto,0|Pixel,1|Star,2"]}}}]

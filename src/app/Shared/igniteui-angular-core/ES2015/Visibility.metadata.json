@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"Visibility":{"Visible":0,"Collapsed":1},"Visibility_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"./type","name":"markEnum","line":26,"character":30},"arguments":["Visibility","Visible,0|Collapsed,1"]}}}]

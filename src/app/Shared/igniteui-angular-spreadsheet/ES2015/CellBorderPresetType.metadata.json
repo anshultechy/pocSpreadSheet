@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"CellBorderPresetType":{"None":0,"Outline":1,"Inside":2},"CellBorderPresetType_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":21,"character":40},"arguments":["CellBorderPresetType","None,0|Outline,1|Inside,2"]}}}]

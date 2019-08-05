@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"DropDownCollisionActions":{"None":0,"Flip":1,"Shift":2,"Resize":4},"DropDownCollisionActions_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"markEnum","line":22,"character":44},"arguments":["DropDownCollisionActions","None,0|Flip,1|Shift,2|Resize,4"]}}}]

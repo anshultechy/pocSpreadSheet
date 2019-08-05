@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ScrollInfoOrientation":{"Horizontal":0,"Vertical":1},"ScrollInfoOrientation_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":20,"character":41},"arguments":["ScrollInfoOrientation","Horizontal,0|Vertical,1"]}}}]

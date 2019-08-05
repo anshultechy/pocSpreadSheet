@@ -1,0 +1,64 @@
+import { Base, IList$1, Type } from "../../igniteui-angular-core/ES5/type";
+import { DomWrapper, NormalizedEvent, DomRenderer } from "../../igniteui-angular-core/ES5/dom";
+import { Key } from "../../igniteui-angular-core/ES5/Key";
+import { ModifierKeys } from "../../igniteui-angular-core/ES5/ModifierKeys";
+import { DropDownItem } from "./DropDownItem";
+import { Tuple$2 } from "../../igniteui-angular-core/ES5/Tuple$2";
+import { Rect } from "../../igniteui-angular-core/ES5/Rect";
+import { DropDownPosition } from "./DropDownPosition";
+/**
+ * @hidden
+ */
+export declare class DropDown extends Base {
+    static $t: Type;
+    private readonly z;
+    private ab;
+    private aa;
+    private readonly o;
+    private readonly n;
+    private d;
+    private af;
+    private ah;
+    private e;
+    private ag;
+    constructor(a: DomRenderer, b: DomWrapper, c: IList$1<DropDownItem>, d: DropDown, e: DropDownItem, f: (arg1: DomWrapper, arg2: DropDownItem) => void);
+    readonly ac: DomWrapper;
+    readonly f: boolean;
+    y: (arg1: DropDown, arg2: Key, arg3: ModifierKeys, arg4: NormalizedEvent) => boolean;
+    a: DropDown;
+    b: DropDownItem;
+    readonly c: DropDownItem;
+    ai: number;
+    m: boolean;
+    childRequested: (sender: any, e: DropDownItem) => void;
+    closed: (sender: any, e: any) => void;
+    itemClicked: (sender: any, e: DropDownItem) => void;
+    opened: (sender: any, e: any) => void;
+    selectedItemChanged: (sender: any, e: Tuple$2<DropDownItem, DropDownItem>) => void;
+    ao(): void;
+    private ap;
+    aq(): void;
+    private ar;
+    private static p;
+    private ad;
+    private static r;
+    private static q;
+    private static s;
+    ae(a: DropDownItem): DomWrapper;
+    as(a: DomRenderer, b: IList$1<DropDownItem>, c: (arg1: DomWrapper, arg2: DropDownItem) => void): void;
+    g(a: boolean): boolean;
+    private h;
+    i(): boolean;
+    j(): boolean;
+    private at;
+    private au;
+    private k;
+    private av;
+    private aw;
+    private ax;
+    private ay;
+    l(a: Key, b: ModifierKeys): boolean;
+    private az;
+    a0(a: Rect, b: DropDownPosition): void;
+    private a1;
+}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ISpreadsheetDialogFormatsService":{"__symbolic":"interface"},"ISpreadsheetDialogFormatsService_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"Type","line":22,"character":56},"arguments":[null,"ISpreadsheetDialogFormatsService"]}}}]

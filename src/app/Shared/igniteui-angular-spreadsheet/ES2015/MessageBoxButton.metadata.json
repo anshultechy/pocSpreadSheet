@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"MessageBoxButton":{"OK":0,"OKCancel":1,"YesNoCancel":3,"YesNo":4},"MessageBoxButton_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":22,"character":36},"arguments":["MessageBoxButton","OK,0|OKCancel,1|YesNoCancel,3|YesNo,4"]}}}]

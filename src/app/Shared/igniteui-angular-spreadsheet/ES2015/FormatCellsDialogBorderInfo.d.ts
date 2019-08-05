@@ -1,0 +1,66 @@
+import { Base, INotifyPropertyChanged, PropertyChangedEventArgs, Type } from "../../igniteui-angular-core/ES2015/type";
+import { WorkbookColorInfo, CellBorderLineStyle, DiagonalBorders } from "../../igniteui-angular-excel/ES2015/excel.core";
+/**
+ * @hidden
+ */
+export declare class FormatCellsDialogBorderInfo extends Base implements INotifyPropertyChanged {
+    static $t: Type;
+    private _s;
+    private _a;
+    private _ai;
+    private _v;
+    private _d;
+    private _al;
+    private _w;
+    private _e;
+    private _am;
+    private _x;
+    private _f;
+    private _an;
+    private _y;
+    private _g;
+    private _ao;
+    private _z;
+    private _h;
+    private _ap;
+    private _t;
+    private _b;
+    private _aj;
+    private _u;
+    private _c;
+    private _ak;
+    private _q;
+    constructor(a: boolean, b: boolean);
+    _aa: WorkbookColorInfo;
+    _i: CellBorderLineStyle;
+    _r: DiagonalBorders;
+    _ab: WorkbookColorInfo;
+    _j: CellBorderLineStyle;
+    _ac: WorkbookColorInfo;
+    _k: CellBorderLineStyle;
+    _ad: WorkbookColorInfo;
+    _l: CellBorderLineStyle;
+    _ae: WorkbookColorInfo;
+    _m: CellBorderLineStyle;
+    readonly _ar: boolean;
+    readonly _au: boolean;
+    _av: boolean;
+    readonly _aw: boolean;
+    _ax: boolean;
+    readonly _ay: boolean;
+    readonly _az: boolean;
+    readonly _a0: boolean;
+    readonly _a1: boolean;
+    readonly _as: boolean;
+    readonly _at: boolean;
+    _af: WorkbookColorInfo;
+    _n: CellBorderLineStyle;
+    _ag: WorkbookColorInfo;
+    _o: CellBorderLineStyle;
+    _ah: WorkbookColorInfo;
+    _p: CellBorderLineStyle;
+    static _aq(a: CellBorderLineStyle): boolean;
+    private _bs;
+    propertyChanged: (sender: any, e: PropertyChangedEventArgs) => void;
+    private _br;
+}

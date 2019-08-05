@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "igniteui-angular-spreadsheet@8.0.0",
+      "C:\\Users\\hp\\Downloads\\Infragistics_Angular_v19-1\\igniteui-angular-samples-8.1.0"
+    ]
+  ],
+  "_from": "igniteui-angular-spreadsheet@8.0.0",
+  "_id": "igniteui-angular-spreadsheet@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Uheu9dBTLpsG5Y72lX4VCL0EzVPgDN5JHsZ8iFo7n020rrRi8jjEuBvHne0O/a4OnsAYo8Z6dIO+TI7no7tzTQ==",
+  "_location": "/igniteui-angular-spreadsheet",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "igniteui-angular-spreadsheet@8.0.0",
+    "name": "igniteui-angular-spreadsheet",
+    "escapedName": "igniteui-angular-spreadsheet",
+    "rawSpec": "8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "8.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/igniteui-angular-spreadsheet/-/igniteui-angular-spreadsheet-8.0.0.tgz",
+  "_spec": "8.0.0",
+  "_where": "C:\\Users\\hp\\Downloads\\Infragistics_Angular_v19-1\\igniteui-angular-samples-8.1.0",
+  "dependencies": {
+    "uzip": "^0.0.0"
+  },
+  "description": "Ignite UI Angular spreadsheet component for displaying and editing Microsoft Excel workbooks for modern web apps.",
+  "homepage": "https://github.com/IgniteUI/igniteui-angular-spreadsheet",
+  "keywords": [
+    "angular",
+    "excel",
+    "workbook",
+    "worksheet",
+    "dashboard",
+    "data",
+    "infragistics",
+    "spreadsheet"
+  ],
+  "license": "Infragistics(R) Ultimate license (http://www.infragistics.com/legal/ultimate/license/)",
+  "maintainers": [
+    {
+      "name": "igniteui",
+      "email": "igniteui@infragistics.com"
+    }
+  ],
+  "name": "igniteui-angular-spreadsheet",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/compiler": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "igniteui-angular-core": "8.0.0",
+    "igniteui-angular-excel": "8.0.0",
+    "tslib": "^1.7.1"
+  },
+  "version": "8.0.0"
+}

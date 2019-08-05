@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "igniteui-angular-core@8.0.0",
+      "C:\\Users\\hp\\Downloads\\Infragistics_Angular_v19-1\\igniteui-angular-samples-8.1.0"
+    ]
+  ],
+  "_from": "igniteui-angular-core@8.0.0",
+  "_id": "igniteui-angular-core@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-iaCJU1rsf5lzljEF2vyTPyetXil6lwhNuUWsL2KDOa84NG0EAwjZ2EQ0SPyePtatLJ0S7Dt9AA1sE2epTuCqeg==",
+  "_location": "/igniteui-angular-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "igniteui-angular-core@8.0.0",
+    "name": "igniteui-angular-core",
+    "escapedName": "igniteui-angular-core",
+    "rawSpec": "8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "8.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/igniteui-angular-core/-/igniteui-angular-core-8.0.0.tgz",
+  "_spec": "8.0.0",
+  "_where": "C:\\Users\\hp\\Downloads\\Infragistics_Angular_v19-1\\igniteui-angular-samples-8.1.0",
+  "description": "Ignite UI Angular Core logic used in multiple UI components.",
+  "homepage": "https://github.com/IgniteUI/igniteui-angular-charts",
+  "keywords": [
+    "angular",
+    "infragistics",
+    "core",
+    "dashboard",
+    "data visualization"
+  ],
+  "license": "Infragistics(R) Ultimate license (http://www.infragistics.com/legal/ultimate/license/)",
+  "maintainers": [
+    {
+      "name": "igniteui",
+      "email": "igniteui@infragistics.com"
+    }
+  ],
+  "name": "igniteui-angular-core",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/compiler": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "tslib": "^1.7.1"
+  },
+  "version": "8.0.0"
+}

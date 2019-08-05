@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"HAlign":{"Left":0,"Center":1,"Right":2,"Stretch":3},"HAlign_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":22,"character":26},"arguments":["HAlign","Left,0|Center,1|Right,2|Stretch,3"]}}}]

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"MouseButton":{"Left":0,"Middle":1,"Right":2,"XButton1":3,"XButton2":4},"MouseButton_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":23,"character":31},"arguments":["MouseButton","Left,0|Middle,1|Right,2|XButton1,3|XButton2,4"]}}}]

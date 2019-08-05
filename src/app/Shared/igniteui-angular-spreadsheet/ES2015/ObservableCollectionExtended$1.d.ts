@@ -1,0 +1,63 @@
+import { List$1 } from "../../igniteui-angular-core/ES2015/List$1";
+import { ISupportPropertyChangeNotifications } from "./ISupportPropertyChangeNotifications";
+import { INotifyPropertyChanged, IEnumerable$1, PropertyChangedEventArgs, Type } from "../../igniteui-angular-core/ES2015/type";
+import { IDeferUpdate } from "./IDeferUpdate";
+import { INotifyCollectionChanged } from "../../igniteui-angular-core/ES2015/INotifyCollectionChanged";
+import { PropertyChangeListenerList } from "./PropertyChangeListenerList";
+import { NotifyCollectionChangedEventArgs } from "../../igniteui-angular-core/ES2015/NotifyCollectionChangedEventArgs";
+import { ItemPropertyChangedEventArgs } from "./ItemPropertyChangedEventArgs";
+import { ITypedPropertyChangeListener$2 } from "./ITypedPropertyChangeListener$2";
+/**
+ * @hidden
+ */
+export declare class ObservableCollectionExtended$1<T> extends List$1<T> implements ISupportPropertyChangeNotifications, IDeferUpdate, INotifyPropertyChanged, INotifyCollectionChanged {
+    static $t: Type;
+    protected $t: Type;
+    private _an;
+    private _ae;
+    private _af;
+    private _al;
+    private _ac;
+    private _ag;
+    constructor($t: Type, a: number);
+    constructor($t: Type, a: number, b: List$1<T>);
+    constructor($t: Type, a: number, b: boolean, c: boolean);
+    constructor($t: Type, a: number, ..._rest: any[]);
+    readonly _ah: boolean;
+    protected get__ai(): boolean;
+    protected readonly _ai: boolean;
+    readonly _ad: PropertyChangeListenerList;
+    private readonly _aj;
+    o(a: IEnumerable$1<T>): void;
+    beginUpdate(): void;
+    endUpdate(): void;
+    s(a: number, b: IEnumerable$1<T>): void;
+    _a3(a: IEnumerable$1<T>): void;
+    v(a: number, b: number): void;
+    protected _ar(): void;
+    protected _at(): void;
+    protected _au(a: T): void;
+    protected _av(a: T): void;
+    protected _ax(a: T): void;
+    protected _ay(a: T): void;
+    private _ao;
+    private _ap;
+    private _aq;
+    private _a0;
+    private _a1;
+    private _a2;
+    private _a4;
+    protected _aw(a: ItemPropertyChangedEventArgs): void;
+    _itemPropertyChanged: (sender: any, e: ItemPropertyChangedEventArgs) => void;
+    protected n(a: T): void;
+    protected p(): void;
+    protected r(a: number, b: T): void;
+    protected _as(a: NotifyCollectionChangedEventArgs): void;
+    protected _az(a: PropertyChangedEventArgs): void;
+    protected u(a: number): void;
+    protected x(a: number, b: T): void;
+    addListener(a: ITypedPropertyChangeListener$2<any, string>, b: boolean): void;
+    removeListener(a: ITypedPropertyChangeListener$2<any, string>): void;
+    propertyChanged: (sender: any, e: PropertyChangedEventArgs) => void;
+    collectionChanged: (sender: any, e: NotifyCollectionChangedEventArgs) => void;
+}

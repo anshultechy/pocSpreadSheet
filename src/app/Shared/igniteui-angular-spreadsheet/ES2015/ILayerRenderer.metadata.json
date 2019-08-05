@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ILayerRenderer":{"__symbolic":"interface"},"ILayerRenderer_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"Type","line":27,"character":38},"arguments":[null,"ILayerRenderer"]}}}]

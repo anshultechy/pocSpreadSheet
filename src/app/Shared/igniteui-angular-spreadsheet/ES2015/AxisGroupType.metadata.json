@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"AxisGroupType":{"PrimaryX":0,"PrimaryY":1,"SecondaryX":2,"SecondaryY":3},"AxisGroupType_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":22,"character":33},"arguments":["AxisGroupType","PrimaryX,0|PrimaryY,1|SecondaryX,2|SecondaryY,3"]}}}]

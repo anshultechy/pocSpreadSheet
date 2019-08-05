@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ISpreadsheetEditInfo":{"__symbolic":"interface"},"ISpreadsheetEditInfo_$type":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"Type","line":22,"character":44},"arguments":[null,"ISpreadsheetEditInfo"]}}}]

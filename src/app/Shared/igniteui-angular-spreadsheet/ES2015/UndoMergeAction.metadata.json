@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"UndoMergeAction":{"NotMerged":0,"Merged":1,"MergedRemoveUnit":2},"UndoMergeAction_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":30,"character":35},"arguments":["UndoMergeAction","NotMerged,0|Merged,1|MergedRemoveUnit,2"]}}}]

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"CellContentType":{"Default":0,"Text":1,"Date":2,"Number":3},"CellContentType_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES2015/type","name":"markEnum","line":22,"character":35},"arguments":["CellContentType","Default,0|Text,1|Date,2|Number,3"]}}}]

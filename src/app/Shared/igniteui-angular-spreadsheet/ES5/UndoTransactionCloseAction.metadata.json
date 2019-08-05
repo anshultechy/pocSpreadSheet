@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"UndoTransactionCloseAction":{"Commit":0,"Rollback":1,"Cancel":2},"UndoTransactionCloseAction_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"markEnum","line":21,"character":46},"arguments":["UndoTransactionCloseAction","Commit,0|Rollback,1|Cancel,2"]}}}]

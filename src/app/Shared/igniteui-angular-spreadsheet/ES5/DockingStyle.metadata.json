@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"DockingStyle":{"None":0,"Top":1,"Bottom":2,"Left":3,"Right":4,"Fill":5},"DockingStyle_$type":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"../../igniteui-angular-core/ES5/type","name":"markEnum","line":24,"character":32},"arguments":["DockingStyle","None,0|Top,1|Bottom,2|Left,3|Right,4|Fill,5"]}}}]
